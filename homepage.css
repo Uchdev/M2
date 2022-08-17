@@ -1,0 +1,33 @@
+body{
+    background-image:url("picture/giphy.gif");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: center;
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;
+    text-align: center;
+}
+.container {
+    text-align: center;
+     margin-left: auto;
+     margin-right: auto;
+}
+h1 {
+    font-size: 100px;
+    margin-top: 300px;
+    margin-bottom: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+button {
+    color:#fff;
+    background: black;
+    border: 1px solid darkslategrey;
+    border-radius: 60px;
+    padding: 8px 20px;
+    font-weight: bold;
+}
+button:hover {
+    background-color: darkslategrey;
+}

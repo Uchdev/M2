@@ -1,0 +1,71 @@
+h1 {
+    font-size: 60px;
+    background-color: darkslategrey;
+    width: 55px;
+    margin: 0px;
+    border-radius: 20px;
+    padding-top: 400px;
+    padding-left: 20px;
+}
+h2 {
+    font-size: 24px;
+}
+h3 {
+    font-size: 16px;
+}
+
+body {
+    background-image: url("picture/giphy.gif");
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-color: black;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin: auto;    
+}
+.btn {
+    display: block;
+    margin:20px auto;
+    color:#fff;
+    background: black;
+    border: 1px solid darkslategrey;
+    border-radius: 60px;
+    padding: 20px 400px;
+    font-weight: bold; 
+    border-radius: 70px;
+}
+.text-teal {
+        color: teal;
+}
+.container {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+img {
+    display: block;
+    max-width: 400px;
+    height: auto;
+    margin:0 auto;
+    border-radius: 20px;
+}
+button {
+    color:#fff;
+    background: black;
+    border: 1px solid darkslategrey;
+    border-radius: 60px;
+    padding: 8px 20px;
+    font-weight: bold;
+}
+button:hover {
+    background-color:darkslategrey;
+}
+input {
+    color:#fff;
+    background: black;
+    border: 1px solid darkslategrey;
+    border-radius: 60px;
+    padding: 8px 20px;
+    font-weight: bold;
+}
